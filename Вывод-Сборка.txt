@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: TestChatClient, Конфигурация: Debug Win32 ------
+1>  ClientSocket.cpp
+1>  TestChatClient.vcxproj -> D:\KNU\3_Kurs\Projects\TestChat\Debug\TestChatClient.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 1, пропущено: 0 ==========

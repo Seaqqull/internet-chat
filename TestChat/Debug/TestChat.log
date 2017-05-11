@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  TestChatDlg.cpp
+d:\knu\3_kurs\projects\testchat\testchat\testchatdlg.cpp(295): warning C4018: <: несоответствие типов со знаком и без знака
+d:\knu\3_kurs\projects\testchat\testchat\testchatdlg.cpp(316): warning C4018: <: несоответствие типов со знаком и без знака
+d:\knu\3_kurs\projects\testchat\testchat\testchatdlg.cpp(353): warning C4018: <: несоответствие типов со знаком и без знака
+d:\knu\3_kurs\projects\testchat\testchat\testchatdlg.cpp(380): warning C4018: <: несоответствие типов со знаком и без знака
+d:\knu\3_kurs\projects\testchat\testchat\testchatdlg.cpp(389): warning C4018: <: несоответствие типов со знаком и без знака
+d:\knu\3_kurs\projects\testchat\testchat\testchatdlg.cpp(732): warning C4018: <: несоответствие типов со знаком и без знака
+  TestChat.cpp
+  ServerSocket.cpp
+  DialogRename.cpp
+  ClientSocket.cpp
+  Создание кода...
+  TestChat.vcxproj -> D:\KNU\3_Kurs\Projects\TestChat\Debug\TestChat.exe
+  TestChat.vcxproj -> D:\KNU\3_Kurs\Projects\TestChat\Debug\TestChat.pdb (Full PDB)
