@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  ClientSocket.cpp
+  DialogRename.cpp
+  ServerSocket.cpp
+  TestChat.cpp
+  TestChatDlg.cpp
+TestChatDlg.cpp(295): warning C4018: <: несоответствие типов со знаком и без знака
+TestChatDlg.cpp(316): warning C4018: <: несоответствие типов со знаком и без знака
+TestChatDlg.cpp(353): warning C4018: <: несоответствие типов со знаком и без знака
+TestChatDlg.cpp(380): warning C4018: <: несоответствие типов со знаком и без знака
+TestChatDlg.cpp(389): warning C4018: <: несоответствие типов со знаком и без знака
+TestChatDlg.cpp(732): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 434 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TestChat.vcxproj -> D:\Repository\Git\VisualStudio\Chat\Release\TestChat.exe
+  TestChat.vcxproj -> D:\Repository\Git\VisualStudio\Chat\Release\TestChat.pdb (Full PDB)

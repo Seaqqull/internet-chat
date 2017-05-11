@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ClientSocket.cpp
+  TestChatClient.cpp
+  TestChatClientDlg.cpp
+  Создание кода
+  All 226 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TestChatClient.vcxproj -> D:\Repository\Git\VisualStudio\Chat\Release\TestChatClient.exe
+  TestChatClient.vcxproj -> D:\Repository\Git\VisualStudio\Chat\Release\TestChatClient.pdb (Full PDB)
